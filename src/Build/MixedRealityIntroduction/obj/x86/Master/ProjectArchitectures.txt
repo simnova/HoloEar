@@ -1,0 +1,1 @@
+C:\files\projects\hololens-intro\Build\MixedRealityIntroduction\MixedRealityIntroduction.csproj;x86

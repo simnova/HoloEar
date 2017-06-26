@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>MixedRealityIntroduction</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\files\projects\hololens-intro\Build\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\files\projects\hololens-intro\MixedRealityIntroduction\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

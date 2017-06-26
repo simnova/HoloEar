@@ -1,0 +1,16 @@
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\files\projects\hololens-intro\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
